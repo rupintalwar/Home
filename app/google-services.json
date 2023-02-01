@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121408636884",
+    "project_id": "home-820",
+    "storage_bucket": "home-820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121408636884:android:715ce5f33d9c20c5afb841",
+        "android_client_info": {
+          "package_name": "com.rupintalwar.home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121408636884-30hqak7p3e4rlldpjt7fturikff1ujkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvALWQhOoemuHYVidtHLiIqF_tiRGrts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121408636884-30hqak7p3e4rlldpjt7fturikff1ujkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
